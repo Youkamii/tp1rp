@@ -8,9 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		// rb0503
-		// rb0507
-		// rb0523
+		// rb0503test
 	}
 
 }
