@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		// rb0503
 		// rb0507
+		// rb0523
 	}
 
 }
